@@ -10,10 +10,9 @@ johns_hopkins <- johns_hopkins %>%
 
 johns_hopkins <- gsub("\u00A0", " ", johns_hopkins, fixed = TRUE)
 
-existing_names <- read.csv("JohnsHopkins-to-A3_additional-countries.csv")$Country.Region %>% as.character()
+existing_names <- read.csv("JohnsHopkins-to-A3.csv")$Country.Region %>% as.character()
 
 new_countries = johns_hopkins[!(johns_hopkins %in% existing_names)]
 removed_countries = existing_names[!(existing_names %in% johns_hopkins)]
 
 readr::write_lines(new_countries, path = "new_countries.txt")
-readr::write_lines(removed_countries, path = "removed_countries.txt")
