@@ -16,3 +16,4 @@ new_countries = johns_hopkins[!(johns_hopkins %in% existing_names)]
 removed_countries = existing_names[!(existing_names %in% johns_hopkins)]
 
 readr::write_lines(new_countries, path = "new_countries.txt")
+readr::write_lines(removed_countries, path = "removed_countries.txt")

@@ -48,7 +48,8 @@ The following objects are masked from ‘package:base’:
 > removed_countries = existing_names[!(existing_names %in% johns_hopkins)]
 > 
 > readr::write_lines(new_countries, path = "new_countries.txt")
+> readr::write_lines(removed_countries, path = "removed_countries.txt")
 > 
 > proc.time()
    user  system elapsed 
-  1.122   0.284   1.360 
+  0.937   0.314   0.966 
