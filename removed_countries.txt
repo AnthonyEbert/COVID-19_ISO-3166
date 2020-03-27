@@ -1,11 +1,13 @@
 Channel Islands
 Czech Republic
 Faroe Islands
+French Guiana
 Gibraltar
 Hong Kong SAR
 Iran (Islamic Republic of)
 Macao SAR
 Mainland China
+Martinique
 occupied Palestinian territory
 Others
 Republic of Korea
@@ -16,17 +18,18 @@ Saint Martin
 Taipei and environs
 UK
 Viet Nam
+Cruise Ship
+Reunion
 American Samoa
 Anguilla, Leeward Islands
 Antigua and Barbuda, Leeward Islands
 Aruba
-Bahamas
-Belize
 Bermuda
 Bonaire, Saint Eustatius and Saba
 Botswana
 Brunei Darussalam
 Burundi
+Cape Verde
 Cayman Islands
 Chinese Taipei
 Christmas Island, Indian Ocean
@@ -39,9 +42,10 @@ Cote D'Ivoire
 Curacao
 Falkland Islands
 French Polynesia
-Gambia
+Greenland
 Grenada, Windward Islands
-Guinea-Bissau
+Guadeloupe
+Guam
 Hong Kong (sar) China
 Iran Islamic Republic of
 Ireland Republic of
@@ -51,12 +55,11 @@ Korea Democratic People's Republic of
 Korea Republic of
 Lao People's Democratic Republic
 Lesotho
-Libya
 Macao (sar) China
 Macedonia Former Yugoslav Republic of
 Malawi
-Mali
 Marshall Islands
+Mayotte
 Micronesia Federated States of
 Moldova Republic of
 Montserrat, Leeward Islands
@@ -67,6 +70,7 @@ Niue
 Norfolk Island
 Northern Mariana Islands
 Palau
+Puerto Rico
 Saint Helena
 Saint Kitts and Nevis, Leeward Islands
 Saint Pierre and Miquelon
@@ -91,8 +95,16 @@ Virgin Islands, British
 Virgin Islands, US
 Wallis and Futuna Islands
 Yemen
+Guernsey
+Jersey
 Taiwan
 Hong Kong
 Palestine
 Vatican City
 St. Martin
+Bahamas, The
+East Timor
+Gambia, The
+Republic of the Congo
+The Bahamas
+The Gambia
