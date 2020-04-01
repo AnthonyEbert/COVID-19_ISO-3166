@@ -27,7 +27,6 @@ Aruba
 Bermuda
 Bonaire, Saint Eustatius and Saba
 Brunei Darussalam
-Burundi
 Cape Verde
 Cayman Islands
 Chinese Taipei
@@ -75,7 +74,6 @@ Saint Kitts and Nevis, Leeward Islands
 Saint Pierre and Miquelon
 Samoa
 Sao Tome and Principe
-Sierra Leone
 Solomon Islands
 South Sudan
 St Maarten (dutch Part)
