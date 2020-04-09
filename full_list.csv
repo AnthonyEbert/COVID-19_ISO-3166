@@ -253,7 +253,7 @@ ZMB,total,27.849332,-13.133897,18383955,NA
 ZWE,total,29.154857,-19.015438,14862924,NA
 ITA,Abruzzo,NA,NA,1311580,https://www.tuttitalia.it/regioni/
 ITA,Basilicata,NA,NA,562869,https://www.tuttitalia.it/regioni/
-ITA,P.A. Bolzano,NA,NA,531178,https://www.tuttitalia.it/regioni/
+ITA,Trentino-Alto Adige,NA,NA,1072276,https://www.tuttitalia.it/regioni/
 ITA,Calabria,NA,NA,1947131,https://www.tuttitalia.it/regioni/
 ITA,Campania,NA,NA,5801692,https://www.tuttitalia.it/regioni/
 ITA,Emilia-Romagna,NA,NA,4459477,https://www.tuttitalia.it/regioni/
@@ -268,34 +268,33 @@ ITA,Puglia,NA,NA,4029053,https://www.tuttitalia.it/regioni/
 ITA,Sardegna,NA,NA,1639591,https://www.tuttitalia.it/regioni/
 ITA,Sicilia,NA,NA,4999891,https://www.tuttitalia.it/regioni/
 ITA,Toscana,NA,NA,3729641,https://www.tuttitalia.it/regioni/
-ITA,P.A. Trento,NA,NA,541098,https://www.tuttitalia.it/regioni/
 ITA,Umbria,NA,NA,882015,https://www.tuttitalia.it/regioni/
 ITA,Valle d'Aosta,NA,NA,125666,https://www.tuttitalia.it/regioni/
 ITA,Veneto,NA,NA,4905854,https://www.tuttitalia.it/regioni/
 CHN,Hubei,NA,NA,5902000,NA
-CHE,ZH,NA,NA,1520968,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,BE,NA,NA,1034977,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,LU,NA,NA,409557,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,UR,NA,NA,36433,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,SZ,NA,NA,159165,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,OW,NA,NA,37841,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,NW,NA,NA,43223,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,GL,NA,NA,40403,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,ZG,NA,NA,126837,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,FR,NA,NA,318714,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,SO,NA,NA,273194,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,BS,NA,NA,200298,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,BL,NA,NA,289527,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,SH,NA,NA,81991,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,AR,NA,NA,55234,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,AI,NA,NA,16145,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,SG,NA,NA,507697,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,GR,NA,NA,198379,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,AG,NA,NA,678207,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,TG,NA,NA,276472,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,TI,NA,NA,353343,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,VD,NA,NA,799145,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,VS,NA,NA,343955,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,NE,NA,NA,176850,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,GE,NA,NA,499480,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
-CHE,JU,NA,NA,73419,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Zurich,NA,NA,1520968,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Canton of Bern,NA,NA,1034977,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Lucerne,NA,NA,409557,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Uri,NA,NA,36433,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Schwyz,NA,NA,159165,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Obwalden,NA,NA,37841,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Nidwalden,NA,NA,43223,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Glarus,NA,NA,40403,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Canton of Zug,NA,NA,126837,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Fribourg,NA,NA,318714,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Solothurn,NA,NA,273194,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Basel City,NA,NA,200298,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Basel-Landschaft,NA,NA,289527,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Schaffhausen,NA,NA,81991,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Appenzell Ausserrhoden,NA,NA,55234,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Appenzell Innerrhoden,NA,NA,16145,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,St. Gallen,NA,NA,507697,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Grisons,NA,NA,198379,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Aargau,NA,NA,678207,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Thurgau,NA,NA,276472,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Ticino,NA,NA,353343,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Vaud,NA,NA,799145,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Valais,NA,NA,343955,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Neuchâtel,NA,NA,176850,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Geneva,NA,NA,499480,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
+CHE,Jura,NA,NA,73419,https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.9635943.html
